@@ -1,0 +1,16 @@
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.exe
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.deps.json
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.runtimeconfig.json
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.runtimeconfig.dev.json
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.dll
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\ref\challenge-csharp.dll
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\bin\Debug\net5.0\challenge-csharp.pdb
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.csproj.AssemblyReference.cache
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.AssemblyInfoInputs.cache
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.AssemblyInfo.cs
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.csproj.CoreCompileInputs.cache
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.dll
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\ref\challenge-csharp.dll
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.pdb
+C:\Users\bvial\OneDrive\Documents\GitHub\challenge-csharp\obj\Debug\net5.0\challenge-csharp.genruntimeconfig.cache
