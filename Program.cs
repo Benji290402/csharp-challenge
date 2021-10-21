@@ -1,13 +1,14 @@
 ﻿using System;
 using CSharpDiscovery.Quest01;
 
-namespace challenge_csharp
+namespace TestCSharp
 {
     class Program
     {
         static void Main(string[] args)
         {
-           Console.WriteLine(HelloWorld_Exercice.HelloWorld());
+            Console.WriteLine(AddTwoIntegers_Exercice.AddTwoIntegers(1, 2));
+            Console.WriteLine(AddTwoIntegers_Exercice.AddTwoIntegers(10, 5));
         }
     }
 }
